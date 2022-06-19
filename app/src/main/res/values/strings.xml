@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DRESSING-FINAL</string>
+    <string name="page_title">Dressing</string>
+    <string name="profile">perfil</string>
+    <string name="content_description_profile">"perfil"</string>
+    <string name="search">buscar</string>
+    <string name="content_description_search">búsqueda</string>
+    <string name="more">más</string>
+    <string name="content_description_more">más de olo que había</string>
+    <string name="title_home">Home</string>
+    <string name="title_Sets">OutFits</string>
+    <string name="title_configurations">Configuration</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Enter</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_user">username</string>
+    <string name="location">San Fernando de Henares</string>
+    <string name="temperature">30ºC - Soleado</string>
+    <string name="seeMore">Ver más</string>
+    <string name="part_top">Parte Superior</string>
+    <string name="part_middle">Parte Inferior</string>
+    <string name="tvCloset">Armario 1</string>
+    <string name="tvPlaceCloset">Casa</string>
+    <string name="closet">Armarios</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="iniciar_ses">Iniciar Sesión</string>
+    <string name="title">Empieza hoy mismo a cambiar la forma en la que ves tu ropa</string>
+</resources>

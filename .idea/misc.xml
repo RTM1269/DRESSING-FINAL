@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/btnrounded.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/filter_chip.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.115" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/line_1.xml" value="0.222" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/mobile_menu.xml" value="0.247" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/top_app_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/drawable/top_bar_menu_ic.xml" value="0.118" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/activity_closets.xml" value="0.1921875" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/activity_login.xml" value="0.16818181818181818" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/activity_main.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/card_weather_template.xml" value="0.3314814814814815" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/closet_card_template.xml" value="0.2" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/fragment_closets.xml" value="0.1921875" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/fragment_configuration.xml" value="0.1" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/fragment_dashboard.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/outfit_card_template.xml" value="0.3314814814814815" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/part_of_clothes_template.xml" value="0.17687074829931973" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/sets_card_template.xml" value="0.1984732824427481" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/layout/toolbar.xml" value="0.38796296296296295" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/menu/bottom_nav_menu.xml" value="0.478125" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/menu/navigation.xml" value="0.1763888888888889" />
+        <entry key="..\:/Users/Raul/AndroidStudioProjects/DRESSINGFINAL/app/src/main/res/menu/top_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

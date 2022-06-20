@@ -64,6 +64,7 @@
                         android:gravity="center_horizontal|top"
                         android:lineSpacingExtra="2sp"
                         android:text="@string/headline"
+                        android:fontFamily="@font/jonathan"
                         android:textAppearance="@style/headline" />
                 </com.google.android.material.appbar.MaterialToolbar>
         </com.google.android.material.appbar.AppBarLayout>

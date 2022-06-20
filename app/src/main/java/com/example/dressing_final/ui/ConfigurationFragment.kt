@@ -39,9 +39,18 @@ class ConfigurationFragment : Fragment() {
         val configViewModel: ConfigurationViewModel = ViewModelProvider(this).get(
             ConfigurationViewModel::class.java
         )
+
         // Obtenemos el layout de la vista contenedora y la desplegamos.
         _binding = FragmentConfigurationBinding.inflate(inflater, container, false)
         val root: View = binding.root
+        binding.btnCerrarSesion.setOnClickListener {
+            val intent = Intent(requireActivity(), LoginActivity::class.java)
+            startActivity(intent)
+        }
+        binding.cvAjustes.setOnClickListener {
+            val intent = Intent(requireActivity(), ModifyUserActivity::class.java)
+            startActivity(intent)
+        }
         return root
     }
 
@@ -49,5 +58,12 @@ class ConfigurationFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+
+    fun cerrarSesion(view: View) {
+        val intent = Intent(MainActivity().baseContext, LoginActivity::class.java)
+        startActivity(intent)
+    }
+
+
 
 }

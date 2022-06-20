@@ -2,7 +2,8 @@ package com.example.dressing_final.ClothesModel
 
 class ClosetsProvider {
     companion object {
-        val list = listOf(
+
+        var list = listOf(
             Closet(
                 "1",
                 "Armario 1",

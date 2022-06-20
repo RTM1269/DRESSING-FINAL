@@ -2,6 +2,7 @@ package com.example.dressing_final
 import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
+import android.graphics.drawable.Drawable
 import android.location.Address
 import android.location.Geocoder
 import android.os.Bundle
@@ -71,7 +72,7 @@ class MainActivity : AppCompatActivity() {
         /*MenuID: 2131231107, PerfilId: 2131231064 */
         super.onOptionsItemSelected(item)
         Log.d("id pulsado", item.itemId.toString())
-        if (item.itemId==2131231107){
+        if (item.itemId == R.id.profile){
             Log.d("RTM-PROFILE","click en perfil!!!!")
         }else{
             Log.d("RTM-MENÚ","click en menu!!!!")

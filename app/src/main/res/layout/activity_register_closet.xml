@@ -16,7 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:orientation="vertical">
         <EditText
-            android:id="@+id/editTextTextUserName"
+            android:id="@+id/editTextTextClosetName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -25,10 +25,10 @@
             android:layout_marginTop="50dp"
             android:layout_marginLeft="45dp"
             android:layout_marginRight="45dp"
-            android:hint="User"
+            android:hint="Nombre"
             android:textAlignment="center"/>
         <EditText
-            android:id="@+id/editTextTextPass"
+            android:id="@+id/editTextTextPlaceName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -37,80 +37,10 @@
             android:layout_marginTop="10dp"
             android:layout_marginLeft="45dp"
             android:layout_marginRight="45dp"
-            android:hint="Password"
+            android:hint="Lugar"
             android:textAlignment="center"/>
-        <EditText
-            android:id="@+id/editTextTextName"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginRight="45dp"
-            android:hint="nombre"
-            android:textAlignment="center"/>
-        <EditText
-            android:id="@+id/editTextTextApe1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginRight="45dp"
-            android:hint="apellido1"
-            android:textAlignment="center"/>
-        <EditText
-            android:id="@+id/editTextTextApe2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginRight="45dp"
-            android:hint="apellido2"
-            android:textAlignment="center"/>
-        <EditText
-            android:id="@+id/editTextTextEdad"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginRight="45dp"
-            android:hint="edad"
-            android:textAlignment="center"/>
-        <EditText
-            android:id="@+id/editTextTextSexo"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:layout_marginBottom="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginRight="45dp"
-            android:hint="sexo"
-            android:textAlignment="center"/>
-        <EditText
-            android:id="@+id/editTextTextTelefono"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:layout_marginBottom="25dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginRight="45dp"
-            android:hint="telefono"
-            android:textAlignment="center"/>
+
+
         <!--<ImageView
             android:id="@+id/ivFoto"
             android:layout_width="match_parent"
@@ -131,7 +61,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:onClick="registerClick"
+                android:onClick="guardarClosetClick"
                 android:inputType="textPersonName"
                 android:layout_marginBottom="10dp"
                 android:layout_marginTop="10dp"
@@ -145,7 +75,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:onClick="cancelClick"
+                android:onClick="cancelRegisterClosetClick"
                 android:inputType="textPersonName"
                 android:layout_marginBottom="10dp"
                 android:layout_marginTop="10dp"

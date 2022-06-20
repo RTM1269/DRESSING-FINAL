@@ -29,7 +29,7 @@
                 android:scaleType="centerCrop"
                 android:layout_margin="20dp"
                 android:layout_gravity="center|right"
-                android:src="@mipmap/ic_launcher"/>
+                android:src="@android:drawable/btn_star_big_on"/>
 
             <TextView
                 android:id="@+id/tvLocation"
@@ -112,7 +112,7 @@
                             android:layout_height="350dp"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent"
-                            app:srcCompat="@android:drawable/btn_star_big_on"
+                            app:srcCompat="@drawable/conjunto"
                             tools:backgraund="@color/black"
                             android:layout_gravity="top|center"/>
                         <LinearLayout

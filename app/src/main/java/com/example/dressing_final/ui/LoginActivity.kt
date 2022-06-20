@@ -69,5 +69,9 @@ class LoginActivity : AppCompatActivity() {
         queue.add(jsonObjectRequest)
         return res
     }
+    fun regClick(view: View){
+        val intent = Intent(this, RegisterActivity::class.java)
+        startActivity(intent)
+    }
 
 }

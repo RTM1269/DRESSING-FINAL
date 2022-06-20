@@ -85,6 +85,7 @@
                 android:layout_gravity="bottom"/>
         </androidx.cardview.widget.CardView>
         <Button
+            android:id="@+id/btnCerrarSesion"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
